@@ -33,7 +33,14 @@ Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engine
  **Electrical Pre-req**: Basic to intermediate knowledge of wiring is required. Please see the schematic below as a reference.
 ![alt text](schematic.png)
 
- **Parts Needed**: Arduino Mega (x1), 5mm LED Diodes (x4), 1-Bit 7-Segment Display (Score keeper) (x2), 4-Digit 7-Segment display (Clock Timer) (x1), two-prong Buzzer (x1), Dual-axis XY joystick modules (x2), 16 x 16 256 pixel LED Matrix (flexible, and full-color) (x1). 
+ **Parts Needed**: 
+ - Arduino Mega (x1)
+ - 5mm LED Diodes (x4)
+ - 1-Bit 7-Segment Display (for the Score keeper) (x2)
+ - 4-Digit 7-Segment display (for the Clock Timer) (x1)
+ - Two-prong Buzzer (x1)
+ - Dual-axis XY joystick modules (x2)
+ - 6 x 16 256 pixel LED Matrix (flexible, and full-color) (x1)
 
  **Assembly Time (not including manufacturing time)**: Approx. 1-2 hours. 
 

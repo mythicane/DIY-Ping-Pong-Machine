@@ -9,16 +9,16 @@
 
 **Collaborators...**
 
-    Greta Perez-Haiek || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
-    (https://www.linkedin.com/in/greta-perez-haiek-7722bb211/)
-    (Github: @Mythicane)
+Greta Perez-Haiek || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
+(https://www.linkedin.com/in/greta-perez-haiek-7722bb211/)
+(Github: @Mythicane)
 
-    Nathan Smurthwaite || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
-    (https://www.linkedin.com/in/nathan-smurthwaite/)
+Nathan Smurthwaite || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
+(https://www.linkedin.com/in/nathan-smurthwaite/)
 
-    Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
-    (https://www.linkedin.com/in/aadhav-s/)
-    (Github: @AadhavSivakumar)
+Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
+(https://www.linkedin.com/in/aadhav-s/)
+(Github: @AadhavSivakumar)
 
 # How do you play Ping Pong?
  This machine can be played as a 1 or two player game- each player will wield a joystick. Hold the joystick towards you, and then press down on the joystick to start the game. Both players must press down for the game to start. Move the joystick up and down to move your paddle up and down- moving the joystick left and right will do nothing. The ball will then bounce back and forth at a randomized interval- as more time goes by, the ball will speed up, and the changes in angles will get more aggresive! The goal of the game is to keep the ball from hitting your side- if it does, a point will be rewarded to your opponent. After each "loss," both players must press down on their joysticks to start another round in the game. After a minute, the game will end, and the winner will be the one with the most points! Reset your Arduino to begin anew. 

@@ -14,7 +14,7 @@
 ![alt text](pingponggif.gif)
 
 # How to get started...
- Please take a look at the "Ping Pong Machine Documentation.pdf" Report, as it has all the background (as well as a detailed "how-to") for creating the machine.
+ Please take a look at the "Ping Pong Machine Documentation.pdf" Report (Under Documentation), as it has all the background, as well as a detailed "how-to", for creating the machine.
 
  **Software Pre-Req**: Please make sure to download the Arduino IDE Software (https://www.arduino.cc/en/software) so that you may run the provided code.
 

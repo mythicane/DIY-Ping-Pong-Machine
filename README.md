@@ -13,7 +13,7 @@ Greta Perez-Haiek || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engin
 - (https://www.linkedin.com/in/greta-perez-haiek-7722bb211/) (Github: @Mythicane)
 
 Nathan Smurthwaite || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
-- (https://www.linkedin.com/in/nathan-smurthwaite/)
+- (https://www.linkedin.com/in/nathan-smurthwaite/) (Github: @Natesmurt)
 
 Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
 - (https://www.linkedin.com/in/aadhav-s/) (Github: @AadhavSivakumar)

@@ -28,7 +28,7 @@ Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engine
 
  **Software Pre-Req**: Please make sure to download the Arduino IDE Software (https://www.arduino.cc/en/software) so that you may run the provided code.
 
- **Manufacturing Pre-Req**: Familiarization with either CNC, 3D printing, or Laser-cutting is recommended to be able to manufacture the Hull of the Machine and the joystick housings. The .STL files are provided for you. We have personally CADded the hull using Fusion 360 (and used Acryllic and a laser-cutter to manufacture the full), but used Thingverse for the joystick housing .stl files (and 3D printing using PLA to manufacture).
+ **Manufacturing Pre-Req**: Familiarization with either CNC, 3D printing, or Laser-cutting is recommended to be able to manufacture the Hull of the Machine and the joystick housings. The .STL files are provided for you. We have personally CADded the hull using Fusion 360 (and used Acryllic and a laser-cutter for manufacturing), but used Thingverse for the joystick housing .stl files (and PLA 3D printing for manufacutirng).
 
 - Acknowledgement for "Mini Joystick Housing" .stl files... (https://www.thingiverse.com/thing:700346)
 

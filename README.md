@@ -7,7 +7,7 @@
  This project was created as a collaborative effort between Greta Perez-Haiek, Aadhav Sivakumar, Nathan Smurthwaite for the Advanced Mechatronics
  class (Spring 2025), as part of the Masters of Science in Mechatronics & Robotics at New York University. The project was met with overwhelming success, and with the encouragement of the Professor, we have decided to upload the Ping Pong Machine to Open Source so that others can enjoy.
 
-**Collaborators...**
+**Contributers...**
 
 Greta Perez-Haiek || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
 - (https://www.linkedin.com/in/greta-perez-haiek-7722bb211/) (Github: @Mythicane)

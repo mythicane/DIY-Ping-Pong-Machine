@@ -8,14 +8,14 @@
  class (Spring 2025), as part of the Masters of Science in Mechatronics & Robotics at New York University. The project was met with overwhelming success, and with the encouragement of the Professor, we have decided to upload the Ping Pong Machine to Open Source so that others can enjoy.
 
 **Collaborators...**
- - Greta Perez-Haiek || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
+Greta Perez-Haiek || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
  - - (https://www.linkedin.com/in/greta-perez-haiek-7722bb211/)
  - - (Github: @Mythicane)
 
- - Nathan Smurthwaite || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
+ Nathan Smurthwaite || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
  - - (https://www.linkedin.com/in/nathan-smurthwaite/)
 
- - Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
+ Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engineering
  - - (https://www.linkedin.com/in/aadhav-s/)
  - - (Github: @AadhavSivakumar)
 

@@ -37,7 +37,7 @@ Aadhav Sivakumar || M.Sc in Mechatronics & Robotics, NYU Tandon School of Engine
 
  **Parts Needed**: 
  - Arduino Mega (x1)
- - 5mm LED Diodes (x4)
+ - 5mm LED Diodes (x2)
  - 1-Bit 7-Segment Display (for the Score keeper) (x2)
  - 4-Digit 7-Segment display (for the Clock Timer) (x1)
  - Two-prong Buzzer (x1)
